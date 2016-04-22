@@ -9,6 +9,12 @@
 	<packaging>pom</packaging>
 	<name>maventest parent</name>
 	<url>http://maven.apache.org</url>
+	
+	<modules>
+		<module>maventest-domain</module>
+		<module>maventest-dao</module>
+		<module>maventest-service</module>
+	</modules>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
