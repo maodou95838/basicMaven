@@ -5,7 +5,7 @@
     <property name="sun.boot.library.path" value="C:\Java\jdk1.7.0\jre\bin"/>
     <property name="java.vm.version" value="21.0-b17"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="D:\sts-bundle\myworks\maventest"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\sts-bundle\myworks\maventest-parent"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="D:\sts-bundle\myworks\maventest"/>
+    <property name="user.dir" value="D:\sts-bundle\myworks\maventest-parent"/>
     <property name="java.runtime.version" value="1.7.0-b147"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Java\jdk1.7.0\jre\lib\endorsed"/>
@@ -27,7 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows NT (unknown)"/>
-    <property name="classworlds.conf" value="D:\sts-bundle\myworks\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2551812511787406291.tmp"/>
+    <property name="classworlds.conf" value="D:\sts-bundle\myworks\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf974089807153536939.tmp"/>
     <property name="sun.jnu.encoding" value="GBK"/>
     <property name="java.library.path" value="C:\Java\jdk1.7.0\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;D:\Program Files\VisualSVN Server\bin;D:\Program Files\TortoiseSVN\bin;C:\apache-maven\bin;D:\nexus-2.12.1-01-bundle\nexus-2.12.1-01\bin;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
